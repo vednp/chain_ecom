@@ -33,7 +33,6 @@
     "fastq": "^1.15.0",
     "fill-range": "^7.0.1",
     "fraction.js": "^4.2.0",
-    "fsevents": "^2.3.2",
     "is-core-module": "^2.11.0",
     "is-number": "^7.0.0",
     "has": "^1.0.3",
@@ -78,7 +77,6 @@
     "run-parallel": "^1.2.0"
   },
   "scripts": {
-    
     "start": "vite",
     "build": "vite build"
   },
